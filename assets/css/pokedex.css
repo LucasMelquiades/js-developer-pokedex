@@ -139,6 +139,7 @@
 }
 
 .pagination button {
+    cursor: pointer;
     background-color: #6c79db;
     color: #ffffff;
     padding: 0.7rem;
